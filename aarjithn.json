@@ -6,7 +6,7 @@
     "email": "aarjithn@gmail.com",
     "phone": "+44 7459 301 641",
     "website": "http://aarjithn.github.io",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "summary": "Aarjith is a good guy :)",
     "location": {
       "address": "313/3 South Gyle Road",
       "postalCode": "EH12 9EE",
@@ -18,22 +18,27 @@
       {
         "network": "Twitter",
         "username": "aarjithn",
-        "url": ""
+        "url": "https://twitter.com/aarjithn"
       },
       {
         "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.com/dandymusicnl"
+        "username": "aarjithn",
+        "url": "https://soundcloud.com/aarjithn"
+      },
+      {
+        "network": "500px",
+        "username": "aarjithn",
+        "url": "https://500px.com/aarjithn"
       }
     ]
   },
   "work": [
     {
-      "company": "Pied Piper",
-      "position": "CEO/President",
-      "website": "http://piedpiper.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
+      "company": "Tata Consultancy Services",
+      "position": "IT Analyst",
+      "website": "http://tcs.com",
+      "startDate": "2010-10-28",
+      "endDate": "",
       "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
       "highlights": [
         "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
@@ -57,12 +62,12 @@
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
+      "institution": "University of Calicut",
+      "area": "Computer Science & engineering",
       "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
+      "startDate": "2006-06-01",
+      "endDate": "2010-06-01",
+      "gpa": "7.1",
       "courses": [
         "DB1101 - Basic SQL",
         "CS2011 - Java Introduction"
@@ -97,19 +102,30 @@
       ]
     },
     {
-      "name": "Compression",
+      "name": "UX Design",
       "level": "Master",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "Photoshop",
+        "Pixelmator"
       ]
     }
   ],
   "languages": [
     {
       "language": "English",
-      "fluency": "Native speaker"
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Malayalam",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "Tamil",
+      "fluency": "Fluent"
+    }
+    {
+      "language": "Hindi",
+      "fluency": "Fluent"
     }
   ],
   "interests": [
