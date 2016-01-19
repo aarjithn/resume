@@ -1,0 +1,27 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Aarjith Nandakumar resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aarjithn/resume.git"
+  },
+  "keywords": [
+    "aarjithn",
+    "aarjith",
+    "resume"
+  ],
+  "author": "aarjithn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aarjithn/resume/issues"
+  },
+  "homepage": "https://github.com/aarjithn/resume#readme",
+  "devDependencies": {
+    "resume-cli": "^0.4.8"
+  }
+}
