@@ -46,19 +46,6 @@
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "website": "http://coderdojo.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
-      "highlights": [
-        "Awarded 'Teacher of the Month'"
-      ]
-    }
-  ],
   "education": [
     {
       "institution": "University of Calicut",
@@ -66,11 +53,6 @@
       "studyType": "Bachelor",
       "startDate": "2006-06-01",
       "endDate": "2010-06-01",
-      "gpa": "7.1",
-      "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
-      ]
     }
   ],
   "awards": [
