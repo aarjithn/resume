@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Aarjith Nandakumar",
-    "label": "Programmer",
+    "label": "Frontend Engineer",
     "picture": "",
     "email": "aarjithn@gmail.com",
     "phone": "+44 7459 301 641",
     "website": "http://aarjithn.github.io",
-    "summary": "Frontend developer and UX Designer. ",
+    "summary": "Aspiring to be at the forefront of the latest and greatest of front end technologies while working in innovative digital products where I can apply my creative skills and provide innovative solutions.",
     "location": {
       "address": "313/3 South Gyle Road",
       "postalCode": "EH12 9EE",
@@ -16,14 +16,9 @@
     },
     "profiles": [
       {
-        "network": "Stack Overflow",
+        "network": "Stackoverflow",
         "username": "aarjithn",
         "url": "http://stackoverflow.com/users/4466618/aarjithn"
-      },
-      {
-        "network": "Quora",
-        "username": "aarjith-nandakumar",
-        "url": "http://quora.com/profile/aarjith-nandakumar"
       },
       {
         "network": "Github",
@@ -31,27 +26,85 @@
         "url": "https://github.com/aarjithn"
       },
       {
-        "network": "500px",
+        "network": "Codepen",
         "username": "aarjithn",
-        "url": "https://500px.com/aarjithn"
+        "url": "https://codepen.io/aarjithn"
       },
       {
         "network": "Twitter",
         "username": "aarjithn",
         "url": "https://twitter.com/aarjithn"
+      },
+      {
+        "network": "Linkedin",
+        "username": "aarjithn",
+        "url": "https://linkedin.com/aarjithn"
+      },
+      {
+        "network": "Behence",
+        "username": "aarjithn",
+        "url": "https://www.behance.net/aarjithn"
+      },
+      {
+        "network": "500px",
+        "username": "aarjithn",
+        "url": "https://500px.com/aarjithn"
+      },
+      {
+        "network": "Quora",
+        "username": "aarjith-nandakumar",
+        "url": "http://quora.com/profile/aarjith-nandakumar"
+      },
+      {
+        "network": "Soundcloud",
+        "username": "aarjithn",
+        "url": "https://soundcloud.com/aarjithn"
       }
     ]
   },
   "work": [
     {
       "company": "Tata Consultancy Services",
-      "position": "IT Analyst",
+      "position": "Frontend Engineer",
+      "website": "http://tcs.com",
+      "startDate": "2015-03-01",
+      "summary": "Frontend engineer for a digital insurance platform.",
+      "highlights": [
+        "Designed and developed inhouse javascript components for integration of the REST APIs and Web CMS frontend.",
+        "Involved in accessibility review and enhancement for the application.",
+        "Designed and developed a Cordova hybrid mobile application for the digital platform using REST APIs that powers the web application.",
+        "Worked extensively in Adobe Experience Manager.",
+        "Developed a javascript unit testing framework using Jasmine.",
+        "Introduced a test driven development approach for javascript components.",
+        "Worked in an Agile environment and participated, conducted Scrum."
+      ]
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "position": "UX Designer",
+      "website": "http://tcs.com",
+      "startDate": "2014-08-01",
+      "endDate": "2015-02-28",
+      "summary": "Moved to research and development in the domain of social media applications.",
+      "highlights": [
+        "Involved in UX design and accesibility review of an enterprise social network.",
+        "Developed frontend for a digital social CRM platform.",
+        "Designed and developed an Intranet portal on Sharepoint for a customer."
+      ]
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "position": "Developer",
       "website": "http://tcs.com",
       "startDate": "2010-10-28",
-      "summary": "Front End Developer",
+      "endDate": "2014-07-31",
+      "summary": "Worked as an interface developer for a global banking client.",
       "highlights": [
-        "Worked on a social network",
-        "Worked on digital retirement planner platform"
+        "Translated business requirements to effective design documents.",
+        "Involved in design, coding, unit testing and support lifecycles.",
+        "Collaborated with multiple teams in diverse locations.",
+        "Responsible for technical documentation and project tracking.",
+        "Designed and developed a team collaboration site in Sharepoint."
       ]
     }
   ],
@@ -66,16 +119,22 @@
   ],
   "awards": [
     {
-      "title": "Most Viewed Writer in JavaScript",
-      "date": "2016-01-24",
-      "awarder": "Quora",
-      "summary": "Recognized by Quora as most viewed writer in JavaScript"
+      "title": "On the Spot Award",
+      "date": "2014-02-18",
+      "awarder": "TCS",
+      "summary": "Was key member in Jan 2014 release implementation. The quality of work was very well received and appreciated by clients."
     },
     {
-      "title": "Most Viewed Writer in Photography",
-      "date": "2016-01-23",
-      "awarder": "Quora",
-      "summary": "Recognized by Quora as most viewed writer in Photography."
+      "title": "Galaxy of Thanks",
+      "date": "2013-10-12",
+      "awarder": "Citi",
+      "summary": "Awarded for the work in enhancing Prestige card portfolio."
+    },
+    {
+      "title": "Certificate Of Appreciation",
+      "date": "2013-04-24",
+      "awarder": "Citi",
+      "summary": "Selected as National team award for successful completion of SAS projects."
     }
   ],
   "publications": [
@@ -83,7 +142,7 @@
       "name": "Frontend workflow for Maven projects",
       "publisher": "Medium",
       "releaseDate": "2016-02-01",
-      "website": "http://medium.com/aarjithn/frontend-workflow",
+      "website": "http://medium.com/@aarjithn/frontend-workflow",
       "summary": "A worklow to handle frontend tasks in a maven project"
     }
   ],
