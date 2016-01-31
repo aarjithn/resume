@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Aarjith Nandakumar",
-    "label": "Frontend Engineer",
+    "label": "Frontend Engineer and UI designer",
     "picture": "",
     "email": "aarjithn@gmail.com",
     "phone": "+44 7459 301 641",
@@ -76,6 +76,7 @@
         "Worked extensively in Adobe Experience Manager.",
         "Developed a javascript unit testing framework using Jasmine.",
         "Introduced a test driven development approach for javascript components.",
+        "Created and maintained automation test cases for Selenium scripts.",
         "Worked in an Agile environment and participated, conducted Scrum."
       ]
     },
@@ -119,6 +120,18 @@
   ],
   "awards": [
     {
+      "title": "Engage Award",
+      "date": "2016-01-05",
+      "awarder": "Aegon",
+      "summary": "For the commitment and dedication shown in delivering the project ontime."
+    },
+    {
+      "title": "BPS Champions League - Team",
+      "date": "2015-06-14",
+      "awarder": "TCS",
+      "summary": "Excellent performance from the team. Well beyond commitment and excellence on the deliveries."
+    },
+    {
       "title": "On the Spot Award",
       "date": "2014-02-18",
       "awarder": "TCS",
@@ -148,20 +161,56 @@
   ],
   "skills": [
     {
-      "name": "Web Development",
+      "name": "Javascript",
       "level": "Master",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
+        "jQuery",
+        "UnderscoreJS",
+        "HandlebarsJS",
+        "AngularJS",
+        "ReactJS",
+        "RiotJS"
       ]
     },
     {
-      "name": "UX Design",
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "LESS",
+        "SASS",
+        "Bootstrap",
+        "Object Oriented CSS",
+        "Responsive Web Design"
+      ]
+    },
+    {
+      "name": "Web technologies",
+      "level": "Master",
+      "keywords": [
+        "Accesibility",
+        "REST",
+        "Sharepoint",
+        "Adobe Experience Manager"
+      ]
+    },
+    {
+      "name": "Design",
       "level": "Master",
       "keywords": [
         "Photoshop",
         "Pixelmator"
+      ]
+    },
+    {
+      "name": "Build and Deployment",
+      "level": "Master",
+      "keywords": [
+        "Git",
+        "Github",
+        "Gulp",
+        "Openshift",
+        "Heroku",
+        "Webpack"
       ]
     }
   ],
@@ -190,12 +239,20 @@
         "Landscape",
         "Macros"
       ]
+    },
+    {
+      "name": "Travel",
+      "keywords": [
+        "Driving",
+        "Public transportation",
+        "Backpacking"
+      ]
     }
   ],
   "references": [
     {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "name": "Ken Dunn",
+      "reference": "Aarjith Nandakumar did a great job creating documenta- tion for COR project., the VISIO flow charts were accurate and very easy to understand and follow. His actions to ensure quality deliverables illustrates our drive for results."
     }
   ]
 }
