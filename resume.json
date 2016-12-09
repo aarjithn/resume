@@ -66,9 +66,9 @@
       "summary": "Reimagination of enterprise applications",
       "highlights": [
         "Tasked with reimagining suite of apps for collaboration, learning and performance management.",
-        "Developed Hybrid apps for iOS and Android using Ionic / Cordova framework",
-        "Developed standalone web client with seperate front-end architecture",
-        "Won a client hackathon developing chatbot based hybrid app."
+        "Developed Hybrid apps for iOS and Android using Ionic / Cordova framework.",
+        "Developed standalone web client with seperate front-end architecture.",
+        "Won a digital hackathon by developing chatbot based hybrid app."
       ]
     },
     {
@@ -81,7 +81,7 @@
       "highlights": [
         "Developed inhouse javascript components integrating REST APIs and Adobe Experience Manager CMS frontend.",
         "Involved in accessibility review and enhancement for the application.",
-        "Setup site-wide google analytics tracking",
+        "Setup site-wide google analytics tracking.",
         "Introduced test driven development approach for javascript components using Jasmine testing framework.",
         "Worked in an Agile team, participated and conducted scrum."
       ]
