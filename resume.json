@@ -4,14 +4,14 @@
     "label": "Frontend Engineer and UI designer",
     "picture": "",
     "email": "aarjithn@gmail.com",
-    "phone": "+44 7459 301 641",
+    "phone": "+91 9042629093",
     "website": "http://aarjithn.github.io",
     "summary": "Aspiring to be at the forefront of the latest and greatest of front end technologies while working in innovative digital products where I can apply my creative skills and provide innovative solutions.",
     "location": {
-      "address": "313/3 South Gyle Road",
-      "postalCode": "EH12 9EE",
-      "city": "Edinburgh",
-      "countryCode": "UK",
+      "address": "4B/201 Doshi Etopia 1, 3rd Panchayat Link Road, Perungudi",
+      "postalCode": "600096",
+      "city": "Chennai",
+      "countryCode": "IN",
       "region": "MidLothian"
     },
     "profiles": [
@@ -41,7 +41,7 @@
         "url": "https://linkedin.com/aarjithn"
       },
       {
-        "network": "Behence",
+        "network": "Behance",
         "username": "aarjithn",
         "url": "https://www.behance.net/aarjithn"
       },
@@ -54,11 +54,6 @@
         "network": "Quora",
         "username": "aarjith-nandakumar",
         "url": "http://quora.com/profile/aarjith-nandakumar"
-      },
-      {
-        "network": "Soundcloud",
-        "username": "aarjithn",
-        "url": "https://soundcloud.com/aarjithn"
       }
     ]
   },
@@ -67,17 +62,28 @@
       "company": "Tata Consultancy Services",
       "position": "Frontend Engineer",
       "website": "http://tcs.com",
+      "startDate": "2016-05-01",
+      "summary": "Reimagination of enterprise applications",
+      "highlights": [
+        "Tasked with reimagining suite of apps for collaboration, learning and performance management.",
+        "Developed Hybrid apps for iOS and Android using Ionic / Cordova framework",
+        "Developed standalone web client with seperate front-end architecture",
+        "Won a client hackathon developing chatbot based hybrid app."
+      ]
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "position": "Frontend Engineer",
+      "website": "http://tcs.com",
       "startDate": "2015-03-01",
+      "endDate": "2016-04-30",
       "summary": "Frontend engineer for a digital insurance platform.",
       "highlights": [
-        "Designed and developed inhouse javascript components for integration of the REST APIs and Web CMS frontend.",
+        "Developed inhouse javascript components integrating REST APIs and Adobe Experience Manager CMS frontend.",
         "Involved in accessibility review and enhancement for the application.",
-        "Designed and developed a Cordova hybrid mobile application for the digital platform using REST APIs that powers the web application.",
-        "Worked extensively in Adobe Experience Manager.",
-        "Developed a javascript unit testing framework using Jasmine.",
-        "Introduced a test driven development approach for javascript components.",
-        "Created and maintained automation test cases for Selenium scripts.",
-        "Worked in an Agile environment and participated, conducted Scrum."
+        "Setup site-wide google analytics tracking",
+        "Introduced test driven development approach for javascript components using Jasmine testing framework.",
+        "Worked in an Agile team, participated and conducted scrum."
       ]
     },
     {
@@ -88,7 +94,7 @@
       "endDate": "2015-02-28",
       "summary": "Moved to research and development in the domain of social media applications.",
       "highlights": [
-        "Involved in UX design and accesibility review of an enterprise social network.",
+        "Involved in UX design and accessibility review of an enterprise social network.",
         "Developed frontend for a digital social CRM platform.",
         "Designed and developed an Intranet portal on Sharepoint for a customer."
       ]
@@ -101,11 +107,10 @@
       "endDate": "2014-07-31",
       "summary": "Worked as an interface developer for a global banking client.",
       "highlights": [
-        "Translated business requirements to effective design documents.",
+        "Translated business requirements to effective interface design blueprints.",
         "Involved in design, coding, unit testing and support lifecycles.",
-        "Collaborated with multiple teams in diverse locations.",
-        "Responsible for technical documentation and project tracking.",
-        "Designed and developed a team collaboration site in Sharepoint."
+        "Designed and developed a team collaboration site in Sharepoint.",
+        "Collaborated with multiple teams in diverse locations."
       ]
     }
   ],
@@ -119,6 +124,12 @@
     }
   ],
   "awards": [
+    {
+      "title": "Best Team",
+      "date": "2016-12-01",
+      "awarder": "TCS",
+      "summary": "For succesful implementation of digital learning solution mobile app."
+    },
     {
       "title": "Engage Award",
       "date": "2016-01-05",
@@ -136,12 +147,6 @@
       "date": "2014-02-18",
       "awarder": "TCS",
       "summary": "Was key member in Jan 2014 release implementation. The quality of work was very well received and appreciated by clients."
-    },
-    {
-      "title": "Galaxy of Thanks",
-      "date": "2013-10-12",
-      "awarder": "Citi",
-      "summary": "Awarded for the work in enhancing Prestige card portfolio."
     },
     {
       "title": "Certificate Of Appreciation",
@@ -165,11 +170,12 @@
       "level": "Master",
       "keywords": [
         "jQuery",
+        "AngularJS",
+        "Angular2",
+        "ReactJS",
         "UnderscoreJS",
         "HandlebarsJS",
-        "AngularJS",
-        "ReactJS",
-        "RiotJS"
+        "ES6"
       ]
     },
     {
@@ -187,10 +193,12 @@
       "name": "Web technologies",
       "level": "Master",
       "keywords": [
-        "Accesibility",
+        "Accessibility",
         "REST",
         "Sharepoint",
-        "Adobe Experience Manager"
+        "Adobe Experience Manager",
+        "Ionic / Cordova",
+        "MongoDB"
       ]
     },
     {
@@ -198,7 +206,9 @@
       "level": "Master",
       "keywords": [
         "Photoshop",
-        "Pixelmator"
+        "Pixelmator",
+        "Adobe XD",
+        "Sketch"
       ]
     },
     {
@@ -209,7 +219,6 @@
         "Github",
         "Gulp",
         "Openshift",
-        "Heroku",
         "Webpack"
       ]
     }
@@ -244,7 +253,6 @@
       "name": "Travel",
       "keywords": [
         "Driving",
-        "Public transportation",
         "Backpacking"
       ]
     }
@@ -252,7 +260,7 @@
   "references": [
     {
       "name": "Ken Dunn",
-      "reference": "Aarjith Nandakumar did a great job creating documenta- tion for COR project., the VISIO flow charts were accurate and very easy to understand and follow. His actions to ensure quality deliverables illustrates our drive for results."
+      "reference": "Aarjith Nandakumar did a great job creating documentation for COR project., the VISIO flow charts were accurate and very easy to understand and follow. His actions to ensure quality deliverables illustrates our drive for results."
     }
   ]
 }
