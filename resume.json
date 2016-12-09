@@ -155,15 +155,6 @@
       "summary": "Selected as National team award for successful completion of SAS projects."
     }
   ],
-  "publications": [
-    {
-      "name": "Frontend workflow for Maven projects",
-      "publisher": "Medium",
-      "releaseDate": "2016-02-01",
-      "website": "http://medium.com/@aarjithn/frontend-workflow",
-      "summary": "A worklow to handle frontend tasks in a maven project"
-    }
-  ],
   "skills": [
     {
       "name": "Javascript",
@@ -255,12 +246,6 @@
         "Driving",
         "Backpacking"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Ken Dunn",
-      "reference": "Aarjith Nandakumar did a great job creating documentation for COR project., the VISIO flow charts were accurate and very easy to understand and follow. His actions to ensure quality deliverables illustrates our drive for results."
     }
   ]
 }
