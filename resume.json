@@ -6,13 +6,13 @@
     "email": "aarjithn@gmail.com",
     "phone": "+91 9042629093",
     "website": "http://aarjithn.github.io",
-    "summary": "Aspiring to be at the forefront of the latest and greatest of front end technologies while working in innovative digital products where I can apply my creative skills and provide innovative solutions.",
+    "summary": "Aspiring to build digital products where I can apply my creative skills and provide innovative solutions using latest and greatest of front end technologies.",
     "location": {
       "address": "4B/201 Doshi Etopia 1, 3rd Panchayat Link Road, Perungudi",
       "postalCode": "600096",
       "city": "Chennai",
       "countryCode": "IN",
-      "region": "MidLothian"
+      "region": "TN"
     },
     "profiles": [
       {
@@ -65,9 +65,9 @@
       "startDate": "2016-05-01",
       "summary": "Reimagination of enterprise applications",
       "highlights": [
-        "Tasked with reimagining suite of apps for collaboration, learning and performance management.",
+        "Tasked with reimagining suite of enterprise apps for collaboration and learning.",
+        "Developed standalone web clients for desktop with Angular / React and converted them as progressive web apps.",
         "Developed Hybrid apps for iOS and Android using Ionic / Cordova framework.",
-        "Developed standalone web client with seperate front-end architecture.",
         "Won a digital hackathon by developing chatbot based hybrid app."
       ]
     },
@@ -77,7 +77,7 @@
       "website": "http://tcs.com",
       "startDate": "2015-03-01",
       "endDate": "2016-04-30",
-      "summary": "Frontend engineer for a digital insurance platform.",
+      "summary": "Frontend engineer for a digital insurance platform",
       "highlights": [
         "Developed inhouse javascript components integrating REST APIs and Adobe Experience Manager CMS frontend.",
         "Involved in accessibility review and enhancement for the application.",
@@ -88,11 +88,11 @@
     },
     {
       "company": "Tata Consultancy Services",
-      "position": "UX Designer",
+      "position": "UI Designer",
       "website": "http://tcs.com",
       "startDate": "2014-08-01",
       "endDate": "2015-02-28",
-      "summary": "Moved to research and development in the domain of social media applications.",
+      "summary": "Moved to research and development in the domain of social media applications",
       "highlights": [
         "Involved in UX design and accessibility review of an enterprise social network.",
         "Developed frontend for a digital social CRM platform.",
@@ -105,7 +105,7 @@
       "website": "http://tcs.com",
       "startDate": "2010-10-28",
       "endDate": "2014-07-31",
-      "summary": "Worked as an interface developer for a global banking client.",
+      "summary": "Worked as an interface developer for a global banking client",
       "highlights": [
         "Translated business requirements to effective interface design blueprints.",
         "Involved in design, coding, unit testing and support lifecycles.",
