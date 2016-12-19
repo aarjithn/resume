@@ -65,7 +65,7 @@
       "startDate": "2016-05-01",
       "summary": "Reimagination of enterprise applications",
       "highlights": [
-        "Tasked with reimagining suite of enterprise apps for collaboration and learning.",
+        "Tasked with reimagining suite of enterprise apps for real-time collaboration and digital learning.",
         "Developed standalone web clients for desktop with Angular / React and converted them as progressive web apps.",
         "Developed Hybrid apps for iOS and Android using Ionic / Cordova framework.",
         "Won a digital hackathon by developing chatbot based hybrid app."
@@ -185,10 +185,10 @@
       "level": "Master",
       "keywords": [
         "Accessibility",
-        "REST",
         "Sharepoint",
         "Adobe Experience Manager",
         "Ionic / Cordova",
+        "Socket.IO",
         "MongoDB"
       ]
     },
@@ -207,10 +207,10 @@
       "level": "Master",
       "keywords": [
         "Git",
-        "Github",
         "Gulp",
+        "Webpack",
         "Openshift",
-        "Webpack"
+        "Jenkins"
       ]
     }
   ],
