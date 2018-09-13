@@ -8,11 +8,11 @@
     "website": "http://aarjithn.github.io",
     "summary": "Aspiring to build digital products where I can apply my creative skills and provide innovative solutions using latest and greatest of front end technologies.",
     "location": {
-      "address": "4B/201 Doshi Etopia 1, 3rd Panchayat Link Road, Perungudi",
-      "postalCode": "600096",
-      "city": "Chennai",
+      "address": "SF-5, Thiruvathira Nalukettu, Kottakakom, Tripunithura",
+      "postalCode": "682301",
+      "city": "Kochi",
       "countryCode": "IN",
-      "region": "TN"
+      "region": "KL"
     },
     "profiles": [
       {
@@ -60,15 +60,17 @@
   "work": [
     {
       "company": "Tata Consultancy Services",
-      "position": "Frontend Engineer",
+      "position": "Technical Architect",
       "website": "http://tcs.com",
       "startDate": "2016-05-01",
       "summary": "Reimagination of enterprise applications",
       "highlights": [
         "Tasked with reimagining suite of enterprise apps for real-time collaboration and digital learning.",
         "Developed standalone web clients for desktop with Angular / React and converted them as progressive web apps.",
-        "Developed Hybrid apps for iOS and Android using Ionic / Cordova framework.",
-        "Won a digital hackathon by developing chatbot based hybrid app."
+        "Developed Hybrid apps for iOS and Android using Ionic / Cordova and React Native frameworks.",
+        "Participated in talent acquision, conducted interviews for new hires",
+        "Created a digital Self service portal with automated ticket resolution",
+        "Won a digital hackathon by developing chatbot based mobile app."
       ]
     },
     {
@@ -161,19 +163,18 @@
       "level": "Master",
       "keywords": [
         "jQuery",
-        "AngularJS",
-        "Angular2",
-        "ReactJS",
-        "UnderscoreJS",
-        "HandlebarsJS",
-        "ES6"
+        "Angular",
+        "React",
+        "Vue",
+        "ES6",
+        "Typescript"
       ]
     },
     {
       "name": "CSS",
       "level": "Master",
       "keywords": [
-        "LESS",
+        "PostCSS",
         "SASS",
         "Bootstrap",
         "Object Oriented CSS",
@@ -185,11 +186,12 @@
       "level": "Master",
       "keywords": [
         "Accessibility",
-        "Sharepoint",
-        "Adobe Experience Manager",
+        "Progressive Web Apps",
+        "React Native",
         "Ionic / Cordova",
         "Socket.IO",
-        "MongoDB"
+        "MongoDB",
+        "NodeJS"
       ]
     },
     {
